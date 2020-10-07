@@ -1,0 +1,10 @@
+body{
+ background: #80ffff;
+ padding : 10px 10px 10px 10px
+ }
+
+table * {
+	width: 30px; 
+	color: green;
+	font-size: 20px;
+	}
